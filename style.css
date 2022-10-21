@@ -1,0 +1,11 @@
+.app {
+  height: 100vh;
+  background-color: #e0e6f5;
+}
+.content {
+  background-color: #fff;
+}
+
+#li-text {
+  display: inline;
+}
